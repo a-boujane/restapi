@@ -1,5 +1,5 @@
 
-#To test (All operations support both XML and JSON):
+#To test (All operations support JSON only):
  - Send a GET req to http://www.salsaeternity.com:8081/api/users to retrieve a list of all users in the DB (Supports JSON)
 
  - Send a POST req to http://www.salsaeternity.com:8081/api/users with a JSON data to add a new user
